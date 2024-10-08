@@ -49,7 +49,7 @@ I am passionate about using data to drive decision-making and improve processes.
 - Cloud Computing and Data Engineering
 
 ## 📫 Connect with Me
-- [Email](mailto:anusha.r@aogjob.com)
+- [![image](https://github.com/user-attachments/assets/d1fff15a-d3e5-47ad-9207-e6673ee10712)](mailto:anusha.r@aogjob.com)
 - [![image](https://github.com/user-attachments/assets/7755e845-7068-4fb3-b8f4-fce91a4da475)](https://www.linkedin.com/in/anusha-ramachandruni/)
 
 

@@ -53,4 +53,4 @@ I am passionate about using data to drive decision-making and improve processes.
 [![image](https://github.com/user-attachments/assets/7755e845-7068-4fb3-b8f4-fce91a4da475)](https://www.linkedin.com/in/anusha-ramachandruni/)
 [![image](https://github.com/user-attachments/assets/3e23526d-c631-4102-bd3a-927254560677)](https://github.com/AnushaRamachandruni)
 
-Feel free to explore my repositories, and I'm always open to collaboration or discussions related to data analytics and data science!
+I'm always open to collaboration or discussions related to data analytics and data science!

@@ -51,8 +51,6 @@ I am passionate about using data to drive decision-making and improve processes.
 ## 📫 Connect with Me
 [![image](https://github.com/user-attachments/assets/d1fff15a-d3e5-47ad-9207-e6673ee10712)](mailto:anusha.r@aogjob.com)
 [![image](https://github.com/user-attachments/assets/7755e845-7068-4fb3-b8f4-fce91a4da475)](https://www.linkedin.com/in/anusha-ramachandruni/)
-
-
-- [GitHub](https://github.com/AnushaRamachandruni)
+[![image](https://github.com/user-attachments/assets/6b8c3260-460e-4b4f-89e7-0297d60ac771)](https://github.com/AnushaRamachandruni)
 
 Feel free to explore my repositories, and I'm always open to collaboration or discussions related to data analytics and data science!

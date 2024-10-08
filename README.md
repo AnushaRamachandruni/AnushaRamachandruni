@@ -50,7 +50,8 @@ I am passionate about using data to drive decision-making and improve processes.
 
 ## 📫 Connect with Me
 - [Email](mailto:anusha.r@aogjob.com)
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/anusha-ramachandruni/)![image](https://github.com/user-attachments/assets/d61cef31-33df-47b5-9c56-3ddae11ea8cf)
+
 - [GitHub](https://github.com/AnushaRamachandruni)
 
 Feel free to explore my repositories, and I'm always open to collaboration or discussions related to data analytics and data science!
